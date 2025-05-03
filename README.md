@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dubin555-clickhouse-mcp-server-badge.png)](https://mseep.ai/app/dubin555-clickhouse-mcp-server)
+
 # ClickHouse MCP Server
 A Model Context Protocal (MCP) server implement for ClickHouse.
 
